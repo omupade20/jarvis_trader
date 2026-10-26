@@ -1,0 +1,36 @@
+[
+  {
+    "symbol": "IDEA",
+    "name": "VODAFONE IDEA LTD",
+    "quantity": 1,
+    "avg_price": 12.67,
+    "ltp": 11.95,
+    "target_price": 13.3,
+    "stop_price": 12.39,
+    "invested": 12.67,
+    "pnl_abs": -0.72,
+    "pnl_pct": -5.68,
+    "added_date": "2026-10-05",
+    "days_held": 10,
+    "gtt_status": "BROKER_SYNCED",
+    "gtt_id": "USER-PORTFOLIO-CORE",
+    "holding_type": "QUANT_SWING"
+  },
+  {
+    "symbol": "PCJEWELLER",
+    "name": "PCJEWELLER",
+    "quantity": 1,
+    "avg_price": 18.52,
+    "ltp": 16.51,
+    "target_price": 19.45,
+    "stop_price": 18.11,
+    "invested": 18.52,
+    "pnl_abs": -2.01,
+    "pnl_pct": -10.85,
+    "added_date": "2026-10-19",
+    "days_held": 1,
+    "gtt_status": "BROKER_SYNCED",
+    "gtt_id": "GTT-LIVE-SYNC",
+    "holding_type": "QUANT_SWING"
+  }
+]
